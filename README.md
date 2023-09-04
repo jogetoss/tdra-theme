@@ -1,6 +1,30 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+TRDA Theme is built based on [TDRA](https://tdra.gov.ae/), which enables and regulates the telecommunications and digital government sector to drive the provision of smart, sustainable, and efficient services. It aims to develop an integrated system within a regulatory environment for the ICT sector that protects the interests of consumers. Additionally, it establishes an integrated digital infrastructure that contributes to providing proactive and preemptive government services while enhancing the UAE’s competitiveness, sustainability, and the quality of life for its people. Below are the new accessibility features:
+
+Responsive web design
+The design of this portal is optimised for different screen sizes such as those of mobile phones, tablets, and desktops
+
+Text Align
+You can change the text alignment left, center or right through the Accessibility menu on the top right of the page (or top left in Arabic) by clicking on the Text Align icon.
+
+Contrast
+You can change the screen contrast through the Accessibility menu on the top right of the page (or top left in Arabic) by clicking on the contrast icon.
+
+Cursor
+You can change the cursor to big cursor or reading guide through the Accessibility menu on the top right of the page (or top left in Arabic) by clicking on the cursor icon.
+
+Website Structure
+TDRA exclusively follows the recommendations laid down by World Wide Web Consortium (W3C) to maintain the website structure.
+
+Changing colors
+You can change font size through the Accessibility menu on the top right of the page (or top left in Arabic) by clicking on the font size icon.
+
+Changing font and font size
+You can change the font and the font size through the Accessibility menu on the top right of the page (or top left in Arabic) by clicking on the font or font size icons. You can also increase the font size by pressing Control and + key several times or using the Zoom feature in the browser settings. You can view the window in full screen by pressing the F11 key.
+
+Browser compatibility
+This portal has been designed to suit most of the commonly used web browsers namely, Chrome, Firefox, Apple Safari and Microsoft Edge.
 
 # Getting Help
 
